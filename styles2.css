@@ -1,0 +1,250 @@
+.Personal-Information {
+
+    width: 188px;
+  
+    height: 87px;
+  
+    /* margin: 30px 29px 37px 28px; */
+    margin: auto;
+  
+    font-family: Nunito;
+  
+    font-size: 35px;
+  
+    font-weight: bold;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: 1.14;
+  
+    letter-spacing: normal;
+  
+    text-align: center;
+  
+    color: #4c4e55;
+  
+  }
+
+  .Step-35 {
+
+    width: 85px;
+  
+    height: 27px;
+  
+    margin: 1px 80px 34px 4px;
+  
+    font-family: Nunito;
+  
+    font-size: 20px;
+  
+    font-weight: bold;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: 1.35;
+  
+    letter-spacing: normal;
+  
+    text-align: left;
+  
+    color: #8775ed;
+  
+  }
+
+  .Rectangle-193 {
+
+    width: 414px;
+  
+    height: 8px;
+  
+    margin: 17px 0 26px;
+  
+    opacity: 0.1;
+  
+    border: solid 1px #707070;
+  
+    background-color: #838386;
+  
+  }
+
+  .Rectangle-51 {
+
+    /* width: 320px; */
+  
+    height: 45px;
+  
+    margin: 36px 47px 0;
+  
+    padding: 8px 117px 10px 108px;
+  
+    border-radius: 10px;
+  
+    background-image: linear-gradient(to right, #8775ed 0%, #fe4869 112%);
+  
+  }
+
+  .Proceed {
+
+    width: 86px;
+  
+    height: 24px;
+  
+    margin: 3px 0 0 9px;
+  
+    font-family: Nunito;
+  
+    font-size: 18px;
+  
+    font-weight: bold;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: 1.33;
+  
+    letter-spacing: normal;
+  
+    text-align: center;
+  
+    color: #ffffff;
+  
+  }
+
+.column {
+    float: left;
+    /* width: 50%; */
+    /* padding: 10px; */
+    /* height: 300px;  */
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .Self {
+
+    /* width: 35px; */
+  
+    height: 20px;
+  
+    margin: 0px 30px 1px 15px;
+  
+    font-family: Nunito;
+  
+    font-size: 15px;
+  
+    font-weight: bold;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: 1.33;
+  
+    letter-spacing: normal;
+  
+    text-align: left;
+  
+    color: #4c4e55;
+  
+  }
+
+  .Let-us-know-your-DOB {
+
+    /* width: 141px; */
+  
+    height: 19px;
+  
+    margin: 2px 89px 17px 15px;
+  
+    font-family: Nunito;
+  
+    font-size: 14px;
+  
+    font-weight: normal;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: 1.36;
+  
+    letter-spacing: normal;
+  
+    text-align: left;
+  
+    color: #4c4e55;
+  
+  }
+
+  .Rectangle-270 {
+
+    width: 70px;
+  
+    height: 15px;
+  
+    margin: 5px 16px 7px 15px;
+  
+    padding: 15px 124px 13px 18px;
+  
+    opacity: 0.5;
+  
+    border-radius: 10px;
+  
+    background-color: #83838685;
+  
+  }
+
+  .Rectangle-283 {
+
+    width: 20px;
+  
+    height: 20px;
+    float:right;
+    margin-top: -15px;
+  
+    /* margin: 10px 42px 12px 16px; */
+  
+    padding: 11px 11px 10px 12px;
+  
+    border-radius: 5px;
+  
+    border: solid 1px #8775ed;
+  
+    background-color: #ffffff;
+  
+  }
+
+  .image-briefcase {
+    /* margin-left: 20px; */
+    object-fit: contain;
+    width: 20px;
+    height: 20px;
+}
+
+input, select, textarea{
+     font-family: Nunito;
+
+  font-size: 16px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.38;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: #353131;
+}
